@@ -1,0 +1,13 @@
+arrange:
+    - index.md
+    - about.md
+    - guides.md
+    - getting-started.md
+    - whats-new.md
+    - navigation.md 
+    - CONTRIBUTING.md
+    - editor
+    - data-collector
+    - data-manager 
+    - developer
+    - system-administrator
